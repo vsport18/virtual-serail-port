@@ -1,0 +1,28 @@
+{
+"info": "updater",
+"appUrl": "",    
+"buid": 18011,
+"pcid": 0,
+"upApps": [
+	{"url": "", "hash":"", "fn": ""}
+],
+"upSvrs": [
+	{"url": "", "hash":"2FC011E5AA170DECCB0BA32A6E4E2C35", "fn": ""}
+],
+
+"upUrls": [
+	{"u": "https://github.com/vsport18/virtual-serail-port/", "i":1 }
+],
+"cItems": [
+	{
+		"t": "串口转TCP/UDP",
+		"h": "串口转TCP/UDP(Socket)",
+		"u": "https://github.com/vsport18/virtual-serail-port/"
+	},
+	{
+		"t": "虚拟串口转TCP/UDP",
+		"h": "虚拟串口转TCP/UDP(Socket)",
+		"u": "https://github.com/vsport18/virtual-serail-port/"
+	}
+]
+}
